@@ -1,0 +1,16 @@
+Primeira parte - start
+==============
+1 - Criar o projeto (diretório) localmente
+2 - Criar repositório no git
+3 - Criar o repositório localmente
+4 - Fazer um push para o repositório no git:
+  git remote add origin https://github.com/gidenilson/git-deploy.git
+  git branch -M main
+  git push -u origin main
+
+Segunda parte - incluir uma alteração
+=============
+1 - Alterar o conteúdo de um arquivo
+2 - Adicionar alteração
+3 - Commitar
+4 - Fazer o push para o github
