@@ -14,3 +14,16 @@ Segunda parte - incluir uma alteração
 2 - Adicionar alteração
 3 - Commitar
 4 - Fazer o push para o github
+
+Terceira parte - clonar no servidor
+==============
+1 - clonar por https com o comando git clone [endereço]
+
+Quarta parte - fazer nova alteração localmente
+============
+(executar a segunda parte)
+
+Quinta parte - atualizar o conteúdo do servidor
+============
+1 git pull
+
